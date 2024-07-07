@@ -1,0 +1,8 @@
+remove extra spaces from product
+remove brackets ()
+remove more than two words
+add a column for customer name extracted from email, capitalize first letter only
+format percentage to have %
+in qtr1-4, fill any missing value with the average of that column
+q1/q2, if q2 is zero, value should be q1
+remove duplicates
